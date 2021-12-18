@@ -1,10 +1,12 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## Overview of Project & Purpose
 
-### Purpose
+The purpose of this analysis was to allow Louise to be setup for the best possible chance at success with their play Kickstarter. This was done by analyzing relevant data from completed kickstarters and presenting that information in its raw, formatted and visualized forms. 
 
 ## Analysis and Challenges
+
+
 
 ### Analysis of Outcomes Based on Launch Date
 
