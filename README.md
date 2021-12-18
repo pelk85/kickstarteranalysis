@@ -45,4 +45,4 @@ There is no relationship data between donors and campaign runners. Campaigns cou
 
 Outcomes based on goal for US based campaigns. 
 
-Outcomes based on goal for each category under theatre. Perhaps there is another category that is related but more successful that could be used..
+Outcomes based on goal for each category under theatre. Perhaps there is another category that is related but more successful that could be used.
